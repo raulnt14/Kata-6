@@ -1,6 +1,7 @@
 package test;
 
 import org.junit.Test;
+import software.ulpgc.kata6.Board;
 import static test.BoardTest.Cases.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
